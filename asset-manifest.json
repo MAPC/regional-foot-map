@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/regional-foot-map/static/css/main.0ef59e1e.css",
+    "main.js": "/regional-foot-map/static/js/main.827fc15d.js",
+    "static/media/SmoothScroll": "/regional-foot-map/static/media/SmoothScroll.22892d7c7b2f954931b2",
+    "static/media/mapc-semitransparent.svg": "/regional-foot-map/static/media/mapc-semitransparent.fdc76430a3420e52f8963994dab333dc.svg",
+    "index.html": "/regional-foot-map/index.html",
+    "main.0ef59e1e.css.map": "/regional-foot-map/static/css/main.0ef59e1e.css.map",
+    "main.827fc15d.js.map": "/regional-foot-map/static/js/main.827fc15d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef59e1e.css",
+    "static/js/main.827fc15d.js"
+  ]
+}
